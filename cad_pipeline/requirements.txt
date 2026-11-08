@@ -1,0 +1,15 @@
+# cad_pipeline 依赖清单（跨电脑 install -r 即可）
+# 版本锁定的目的：避免 ezdxf 大版本变动导致 HATCH / 线型 API 行为漂移。
+#
+# 关键说明（来自《核心筒CAD还原作业规范》附录 A）：
+#   ezdxf 旧版（含部分 1.4.x）里 HatchPolylinePath/HatchEdgePath 已废弃，
+#   正确类名是 PolylinePath/EdgePath。本工作流代码已用正确类名，故只需避开已知坏版本。
+#   锁 ezdxf>=1.1.0,<1.4.4 是为了避开 1.4.4 那个会拿到 None 的回归窗口；
+#   若将来 ezdxf 修复了该回归，可放宽为 >=1.1.0。
+ezdxf>=1.1.0,<1.4.4
+matplotlib>=3.7
+Pillow>=10.0
+
+# 可选：仅在你改走「AutoCAD COM」路径（非默认）时才需要 pywin32。
+# 本工作流默认用 accoreconsole 无头 stdin 管道转换，不需要 pywin32。
+# pywin32>=306; sys_platform == "win32"

@@ -1,0 +1,1890 @@
+{
+  "reference": "<D盘>\\UserFiles\\Desktop\\CAD出图工作流\\cad_pipeline\\_layer_audit\\reference_dxf\\ref1.dxf",
+  "reference_layers": {
+    "0": {
+      "color": 7,
+      "linetype": "Continuous",
+      "lineweight": -3,
+      "on": true,
+      "frozen": false,
+      "locked": false,
+      "plot": 1
+    },
+    "WALL": {
+      "color": 7,
+      "linetype": "Continuous",
+      "lineweight": 50,
+      "on": true,
+      "frozen": false,
+      "locked": false,
+      "plot": 1
+    },
+    "COLUMN": {
+      "color": 7,
+      "linetype": "Continuous",
+      "lineweight": 50,
+      "on": true,
+      "frozen": false,
+      "locked": false,
+      "plot": 1
+    },
+    "DOOR_WIN": {
+      "color": 4,
+      "linetype": "Continuous",
+      "lineweight": 25,
+      "on": true,
+      "frozen": false,
+      "locked": false,
+      "plot": 1
+    },
+    "FURNITURE": {
+      "color": 4,
+      "linetype": "Continuous",
+      "lineweight": 25,
+      "on": true,
+      "frozen": false,
+      "locked": false,
+      "plot": 1
+    },
+    "MEP": {
+      "color": 6,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "on": true,
+      "frozen": false,
+      "locked": false,
+      "plot": 1
+    },
+    "DIM": {
+      "color": 3,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "on": true,
+      "frozen": false,
+      "locked": false,
+      "plot": 1
+    },
+    "TEXT": {
+      "color": 2,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "on": true,
+      "frozen": false,
+      "locked": false,
+      "plot": 1
+    },
+    "HATCH": {
+      "color": 9,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "on": true,
+      "frozen": false,
+      "locked": false,
+      "plot": 1
+    },
+    "FRAME": {
+      "color": 7,
+      "linetype": "Continuous",
+      "lineweight": 9,
+      "on": true,
+      "frozen": false,
+      "locked": false,
+      "plot": 1
+    },
+    "公-图框": {
+      "color": 4,
+      "linetype": "Continuous",
+      "lineweight": -3,
+      "on": true,
+      "frozen": false,
+      "locked": false,
+      "plot": 1
+    },
+    "Defpoints": {
+      "color": 7,
+      "linetype": "Continuous",
+      "lineweight": -3,
+      "on": true,
+      "frozen": false,
+      "locked": false,
+      "plot": 0
+    }
+  },
+  "sheet_count": 34,
+  "exact_count": 0,
+  "rows": [
+    {
+      "code": "PL-00",
+      "sub": "00_图纸目录",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\00_图纸目录\\2402060131_蔡志成_图纸目录_PL-00_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "FRAME": 1,
+        "TEXT": 427
+      },
+      "entity_types_by_layer": {
+        "FRAME": {
+          "INSERT": 1
+        },
+        "TEXT": {
+          "LINE": 175,
+          "LWPOLYLINE": 35,
+          "TEXT": 217
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-03",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_功能分区图_PL-03_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 164,
+        "DOOR_WIN": 102,
+        "FRAME": 1,
+        "FURNITURE": 7,
+        "HATCH": 41,
+        "TEXT": 278,
+        "WALL": 39
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 50,
+          "LINE": 89,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 4,
+          "LINE": 98
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 1
+        },
+        "HATCH": {
+          "HATCH": 21,
+          "LWPOLYLINE": 20
+        },
+        "TEXT": {
+          "LINE": 68,
+          "LWPOLYLINE": 17,
+          "TEXT": 193
+        },
+        "WALL": {
+          "HATCH": 18,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-12",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_动线设计图_PL-12_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 437,
+        "DOOR_WIN": 102,
+        "FRAME": 1,
+        "FURNITURE": 7,
+        "HATCH": 1,
+        "TEXT": 87,
+        "WALL": 56
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 50,
+          "HATCH": 59,
+          "LINE": 244,
+          "LWPOLYLINE": 59,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 4,
+          "LINE": 98
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 1
+        },
+        "HATCH": {
+          "HATCH": 1
+        },
+        "TEXT": {
+          "LWPOLYLINE": 1,
+          "TEXT": 86
+        },
+        "WALL": {
+          "HATCH": 35,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-02",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_原始结构图_PL-02_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "COLUMN": 151,
+        "DIM": 177,
+        "DOOR_WIN": 102,
+        "FRAME": 1,
+        "FURNITURE": 7,
+        "HATCH": 3,
+        "TEXT": 113,
+        "WALL": 41
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "COLUMN": {
+          "HATCH": 151
+        },
+        "DIM": {
+          "CIRCLE": 52,
+          "LINE": 99,
+          "LWPOLYLINE": 1,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 4,
+          "LINE": 98
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 1
+        },
+        "HATCH": {
+          "HATCH": 3
+        },
+        "TEXT": {
+          "LWPOLYLINE": 1,
+          "TEXT": 112
+        },
+        "WALL": {
+          "HATCH": 20,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-14",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_地面排版图_PL-14_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 873,
+        "DOOR_WIN": 123,
+        "FRAME": 1,
+        "FURNITURE": 7,
+        "HATCH": 395,
+        "TEXT": 89,
+        "WALL": 56
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 50,
+          "HATCH": 4,
+          "LINE": 790,
+          "LWPOLYLINE": 4,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 11,
+          "LINE": 112
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 1
+        },
+        "HATCH": {
+          "HATCH": 3,
+          "LINE": 392
+        },
+        "TEXT": {
+          "LWPOLYLINE": 1,
+          "TEXT": 88
+        },
+        "WALL": {
+          "HATCH": 35,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-05",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_地面铺装图_PL-05_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 164,
+        "DOOR_WIN": 123,
+        "FRAME": 1,
+        "FURNITURE": 7,
+        "HATCH": 403,
+        "TEXT": 106,
+        "WALL": 56
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 50,
+          "LINE": 89,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 11,
+          "LINE": 112
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 1
+        },
+        "HATCH": {
+          "HATCH": 4,
+          "LINE": 392,
+          "LWPOLYLINE": 7
+        },
+        "TEXT": {
+          "LWPOLYLINE": 1,
+          "TEXT": 105
+        },
+        "WALL": {
+          "HATCH": 35,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-15",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_天花尺寸图_PL-15_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 392,
+        "DOOR_WIN": 123,
+        "FRAME": 1,
+        "FURNITURE": 7,
+        "HATCH": 162,
+        "MEP": 1,
+        "TEXT": 88,
+        "WALL": 56
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 50,
+          "LINE": 262,
+          "TEXT": 80
+        },
+        "DOOR_WIN": {
+          "ARC": 11,
+          "LINE": 112
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 1
+        },
+        "HATCH": {
+          "HATCH": 3,
+          "LINE": 159
+        },
+        "MEP": {
+          "CIRCLE": 1
+        },
+        "TEXT": {
+          "LWPOLYLINE": 1,
+          "TEXT": 87
+        },
+        "WALL": {
+          "HATCH": 35,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-06",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_天花布置图_PL-06_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 756,
+        "DOOR_WIN": 123,
+        "FRAME": 1,
+        "FURNITURE": 7,
+        "HATCH": 314,
+        "MEP": 106,
+        "TEXT": 99,
+        "WALL": 56
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 50,
+          "LINE": 681,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 11,
+          "LINE": 112
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 1
+        },
+        "HATCH": {
+          "HATCH": 5,
+          "LINE": 309
+        },
+        "MEP": {
+          "CIRCLE": 1,
+          "LINE": 70,
+          "LWPOLYLINE": 35
+        },
+        "TEXT": {
+          "LWPOLYLINE": 7,
+          "TEXT": 92
+        },
+        "WALL": {
+          "HATCH": 35,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-01",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_平面布置图_PL-01_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 177,
+        "DOOR_WIN": 123,
+        "FRAME": 1,
+        "FURNITURE": 246,
+        "HATCH": 1,
+        "MEP": 2,
+        "TEXT": 114,
+        "WALL": 57
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 52,
+          "LINE": 99,
+          "LWPOLYLINE": 1,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 11,
+          "LINE": 112
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 23,
+          "LINE": 98,
+          "LWPOLYLINE": 125
+        },
+        "HATCH": {
+          "HATCH": 1
+        },
+        "MEP": {
+          "CIRCLE": 2
+        },
+        "TEXT": {
+          "LWPOLYLINE": 1,
+          "TEXT": 113
+        },
+        "WALL": {
+          "HATCH": 36,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-11",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_平面索引图_PL-11_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 175,
+        "DOOR_WIN": 123,
+        "FRAME": 1,
+        "FURNITURE": 7,
+        "HATCH": 1,
+        "TEXT": 193,
+        "WALL": 56
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 61,
+          "LINE": 89,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 11,
+          "LINE": 112
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 1
+        },
+        "HATCH": {
+          "HATCH": 1
+        },
+        "TEXT": {
+          "LINE": 46,
+          "LWPOLYLINE": 12,
+          "TEXT": 135
+        },
+        "WALL": {
+          "HATCH": 35,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-08",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_插座定位图_PL-08_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 164,
+        "DOOR_WIN": 123,
+        "FRAME": 1,
+        "FURNITURE": 100,
+        "HATCH": 1,
+        "MEP": 105,
+        "TEXT": 82,
+        "WALL": 56
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 50,
+          "LINE": 89,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 11,
+          "LINE": 112
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 94
+        },
+        "HATCH": {
+          "HATCH": 1
+        },
+        "MEP": {
+          "CIRCLE": 13,
+          "LWPOLYLINE": 92
+        },
+        "TEXT": {
+          "LWPOLYLINE": 1,
+          "TEXT": 81
+        },
+        "WALL": {
+          "HATCH": 35,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-04",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_新增隔墙定位图_PL-04_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 273,
+        "DOOR_WIN": 123,
+        "FRAME": 1,
+        "FURNITURE": 7,
+        "HATCH": 1,
+        "TEXT": 106,
+        "WALL": 58
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 50,
+          "LINE": 198,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 11,
+          "LINE": 112
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 1
+        },
+        "HATCH": {
+          "HATCH": 1
+        },
+        "TEXT": {
+          "LWPOLYLINE": 1,
+          "TEXT": 105
+        },
+        "WALL": {
+          "HATCH": 37,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-10",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_消防末端图_PL-10_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 164,
+        "DOOR_WIN": 123,
+        "FRAME": 1,
+        "FURNITURE": 8,
+        "HATCH": 1,
+        "MEP": 604,
+        "TEXT": 86,
+        "WALL": 56
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 50,
+          "LINE": 89,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 11,
+          "LINE": 112
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 2
+        },
+        "HATCH": {
+          "HATCH": 1
+        },
+        "MEP": {
+          "CIRCLE": 136,
+          "LINE": 464,
+          "LWPOLYLINE": 4
+        },
+        "TEXT": {
+          "LWPOLYLINE": 1,
+          "TEXT": 85
+        },
+        "WALL": {
+          "HATCH": 35,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-07",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_灯具定位图_PL-07_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 164,
+        "DOOR_WIN": 123,
+        "FRAME": 1,
+        "FURNITURE": 8,
+        "HATCH": 2,
+        "MEP": 96,
+        "TEXT": 83,
+        "WALL": 56
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 50,
+          "LINE": 89,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 11,
+          "LINE": 112
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 2
+        },
+        "HATCH": {
+          "HATCH": 2
+        },
+        "MEP": {
+          "LWPOLYLINE": 96
+        },
+        "TEXT": {
+          "LWPOLYLINE": 1,
+          "TEXT": 82
+        },
+        "WALL": {
+          "HATCH": 35,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-09",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_给排水点位图_PL-09_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 164,
+        "DOOR_WIN": 123,
+        "FRAME": 1,
+        "FURNITURE": 7,
+        "HATCH": 1,
+        "MEP": 13,
+        "TEXT": 135,
+        "WALL": 56
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 50,
+          "LINE": 89,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 11,
+          "LINE": 112
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 1
+        },
+        "HATCH": {
+          "HATCH": 1
+        },
+        "MEP": {
+          "CIRCLE": 6,
+          "LINE": 4,
+          "LWPOLYLINE": 3
+        },
+        "TEXT": {
+          "LINE": 24,
+          "LWPOLYLINE": 6,
+          "TEXT": 105
+        },
+        "WALL": {
+          "HATCH": 35,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "PL-13",
+      "sub": "01_平面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\01_平面\\2402060131_蔡志成_配套设施图_PL-13_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "AXIS": 25,
+        "DIM": 164,
+        "DOOR_WIN": 123,
+        "FRAME": 1,
+        "FURNITURE": 21,
+        "HATCH": 1,
+        "TEXT": 173,
+        "WALL": 56
+      },
+      "entity_types_by_layer": {
+        "AXIS": {
+          "LINE": 25
+        },
+        "DIM": {
+          "CIRCLE": 50,
+          "LINE": 89,
+          "TEXT": 25
+        },
+        "DOOR_WIN": {
+          "ARC": 11,
+          "LINE": 112
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 2,
+          "LINE": 4,
+          "LWPOLYLINE": 15
+        },
+        "HATCH": {
+          "HATCH": 1
+        },
+        "TEXT": {
+          "LINE": 33,
+          "LWPOLYLINE": 11,
+          "TEXT": 129
+        },
+        "WALL": {
+          "HATCH": 35,
+          "LINE": 2,
+          "LWPOLYLINE": 19
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "EL-06",
+      "sub": "02_立面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\02_立面\\2402060131_蔡志成_办公区立面_EL-06_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 57,
+        "FRAME": 1,
+        "FURNITURE": 22,
+        "HATCH": 16,
+        "TEXT": 15,
+        "WALL": 2
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 47,
+          "TEXT": 10
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 5,
+          "LINE": 11,
+          "LWPOLYLINE": 6
+        },
+        "HATCH": {
+          "LINE": 16
+        },
+        "TEXT": {
+          "LINE": 4,
+          "TEXT": 11
+        },
+        "WALL": {
+          "LINE": 2
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "EL-02",
+      "sub": "02_立面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\02_立面\\2402060131_蔡志成_大会议室立面_EL-02_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 33,
+        "FRAME": 1,
+        "HATCH": 12,
+        "TEXT": 15,
+        "WALL": 3
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 28,
+          "TEXT": 5
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "HATCH": {
+          "LINE": 12
+        },
+        "TEXT": {
+          "LINE": 5,
+          "TEXT": 10
+        },
+        "WALL": {
+          "LINE": 2,
+          "LWPOLYLINE": 1
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "EL-03",
+      "sub": "02_立面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\02_立面\\2402060131_蔡志成_小会议室立面_EL-03_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 25,
+        "DOOR_WIN": 3,
+        "FRAME": 1,
+        "HATCH": 20,
+        "TEXT": 15,
+        "WALL": 3
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 21,
+          "TEXT": 4
+        },
+        "DOOR_WIN": {
+          "CIRCLE": 1,
+          "LWPOLYLINE": 2
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "HATCH": {
+          "LINE": 20
+        },
+        "TEXT": {
+          "LINE": 4,
+          "TEXT": 11
+        },
+        "WALL": {
+          "LINE": 2,
+          "LWPOLYLINE": 1
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "EL-01",
+      "sub": "02_立面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\02_立面\\2402060131_蔡志成_接待区立面_EL-01_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 28,
+        "DOOR_WIN": 3,
+        "FRAME": 1,
+        "FURNITURE": 6,
+        "HATCH": 25,
+        "TEXT": 16,
+        "WALL": 2
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 24,
+          "TEXT": 4
+        },
+        "DOOR_WIN": {
+          "LWPOLYLINE": 3
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 1,
+          "LINE": 2,
+          "LWPOLYLINE": 3
+        },
+        "HATCH": {
+          "LINE": 25
+        },
+        "TEXT": {
+          "LINE": 2,
+          "TEXT": 14
+        },
+        "WALL": {
+          "LINE": 2
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "EL-07",
+      "sub": "02_立面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\02_立面\\2402060131_蔡志成_核心区接口立面_EL-07_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 35,
+        "DOOR_WIN": 1,
+        "FRAME": 1,
+        "HATCH": 18,
+        "TEXT": 14,
+        "WALL": 3
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 31,
+          "TEXT": 4
+        },
+        "DOOR_WIN": {
+          "LWPOLYLINE": 1
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "HATCH": {
+          "LINE": 18
+        },
+        "TEXT": {
+          "LINE": 2,
+          "TEXT": 12
+        },
+        "WALL": {
+          "LINE": 2,
+          "LWPOLYLINE": 1
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "EL-04",
+      "sub": "02_立面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\02_立面\\2402060131_蔡志成_茶水室立面_EL-04_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 27,
+        "DOOR_WIN": 2,
+        "FRAME": 1,
+        "FURNITURE": 5,
+        "HATCH": 20,
+        "TEXT": 15,
+        "WALL": 5
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 23,
+          "TEXT": 4
+        },
+        "DOOR_WIN": {
+          "LINE": 1,
+          "LWPOLYLINE": 1
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "LINE": 2,
+          "LWPOLYLINE": 3
+        },
+        "HATCH": {
+          "LINE": 20
+        },
+        "TEXT": {
+          "LINE": 2,
+          "TEXT": 13
+        },
+        "WALL": {
+          "LINE": 4,
+          "LWPOLYLINE": 1
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "EL-05",
+      "sub": "02_立面",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\02_立面\\2402060131_蔡志成_资料室柜体立面_EL-05_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 40,
+        "FRAME": 1,
+        "FURNITURE": 45,
+        "HATCH": 17,
+        "TEXT": 9,
+        "WALL": 3
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 34,
+          "TEXT": 6
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 20,
+          "LINE": 20,
+          "LWPOLYLINE": 5
+        },
+        "HATCH": {
+          "LINE": 17
+        },
+        "TEXT": {
+          "TEXT": 9
+        },
+        "WALL": {
+          "LINE": 2,
+          "LWPOLYLINE": 1
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "DT-01",
+      "sub": "03_节点大样",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\03_节点大样\\2402060131_蔡志成_吊顶与幕墙交接节点_DT-01_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 6,
+        "FRAME": 1,
+        "HATCH": 5,
+        "TEXT": 27,
+        "WALL": 5
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 5,
+          "TEXT": 1
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "HATCH": {
+          "HATCH": 5
+        },
+        "TEXT": {
+          "LINE": 10,
+          "TEXT": 17
+        },
+        "WALL": {
+          "LWPOLYLINE": 5
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "DT-04",
+      "sub": "03_节点大样",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\03_节点大样\\2402060131_蔡志成_工位屏风与地面固定节点_DT-04_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 6,
+        "FRAME": 1,
+        "HATCH": 6,
+        "TEXT": 32,
+        "WALL": 6
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 5,
+          "TEXT": 1
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "HATCH": {
+          "HATCH": 6
+        },
+        "TEXT": {
+          "LINE": 12,
+          "TEXT": 20
+        },
+        "WALL": {
+          "LWPOLYLINE": 6
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "DT-05",
+      "sub": "03_节点大样",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\03_节点大样\\2402060131_蔡志成_玻璃隔断与吊顶收口节点_DT-05_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 6,
+        "DOOR_WIN": 1,
+        "FRAME": 1,
+        "HATCH": 5,
+        "TEXT": 24,
+        "WALL": 7
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 5,
+          "TEXT": 1
+        },
+        "DOOR_WIN": {
+          "LWPOLYLINE": 1
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "HATCH": {
+          "HATCH": 3,
+          "LINE": 2
+        },
+        "TEXT": {
+          "LINE": 8,
+          "TEXT": 16
+        },
+        "WALL": {
+          "LWPOLYLINE": 7
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "DT-02",
+      "sub": "03_节点大样",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\03_节点大样\\2402060131_蔡志成_茶水间涉水墙面防水节点_DT-02_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 6,
+        "FRAME": 1,
+        "HATCH": 6,
+        "TEXT": 47,
+        "WALL": 6
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 5,
+          "TEXT": 1
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "HATCH": {
+          "HATCH": 6
+        },
+        "TEXT": {
+          "LINE": 12,
+          "TEXT": 35
+        },
+        "WALL": {
+          "LWPOLYLINE": 6
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "DT-06",
+      "sub": "03_节点大样",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\03_节点大样\\2402060131_蔡志成_金属踢脚线收口节点_DT-06_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 12,
+        "FRAME": 1,
+        "HATCH": 1,
+        "TEXT": 23,
+        "WALL": 7
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 10,
+          "TEXT": 2
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "HATCH": {
+          "HATCH": 1
+        },
+        "TEXT": {
+          "LINE": 8,
+          "TEXT": 15
+        },
+        "WALL": {
+          "LINE": 2,
+          "LWPOLYLINE": 5
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "DT-03",
+      "sub": "03_节点大样",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\03_节点大样\\2402060131_蔡志成_隔墙与吊顶交接节点_DT-03_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 6,
+        "FRAME": 1,
+        "HATCH": 5,
+        "TEXT": 39,
+        "WALL": 5
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 5,
+          "TEXT": 1
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "HATCH": {
+          "HATCH": 5
+        },
+        "TEXT": {
+          "LINE": 10,
+          "TEXT": 29
+        },
+        "WALL": {
+          "LWPOLYLINE": 5
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "SD-03",
+      "sub": "04_详图",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\04_详图\\2402060131_蔡志成_会议室玻璃隔断大样_SD-03_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 6,
+        "FRAME": 1,
+        "HATCH": 6,
+        "TEXT": 48,
+        "WALL": 6
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 5,
+          "TEXT": 1
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "HATCH": {
+          "HATCH": 6
+        },
+        "TEXT": {
+          "LINE": 12,
+          "TEXT": 36
+        },
+        "WALL": {
+          "LWPOLYLINE": 6
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "SD-01",
+      "sub": "04_详图",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\04_详图\\2402060131_蔡志成_标准工位大样_SD-01_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 30,
+        "DOOR_WIN": 1,
+        "FRAME": 1,
+        "FURNITURE": 10,
+        "TEXT": 13,
+        "WALL": 1
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 25,
+          "TEXT": 5
+        },
+        "DOOR_WIN": {
+          "LWPOLYLINE": 1
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "LINE": 5,
+          "LWPOLYLINE": 5
+        },
+        "TEXT": {
+          "TEXT": 13
+        },
+        "WALL": {
+          "LINE": 1
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "SD-04",
+      "sub": "04_详图",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\04_详图\\2402060131_蔡志成_石材地面与地毯交接（含踢脚收口）大样_SD-04_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 12,
+        "FRAME": 1,
+        "HATCH": 11,
+        "TEXT": 31,
+        "WALL": 8
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 10,
+          "TEXT": 2
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "HATCH": {
+          "HATCH": 5,
+          "LINE": 6
+        },
+        "TEXT": {
+          "LINE": 12,
+          "TEXT": 19
+        },
+        "WALL": {
+          "LINE": 1,
+          "LWPOLYLINE": 7
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "SD-02",
+      "sub": "04_详图",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\04_详图\\2402060131_蔡志成_茶水间台面大样_SD-02_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 26,
+        "FRAME": 1,
+        "FURNITURE": 10,
+        "HATCH": 1,
+        "TEXT": 15,
+        "WALL": 1
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 22,
+          "TEXT": 4
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "FURNITURE": {
+          "CIRCLE": 1,
+          "LINE": 2,
+          "LWPOLYLINE": 7
+        },
+        "HATCH": {
+          "LWPOLYLINE": 1
+        },
+        "TEXT": {
+          "TEXT": 15
+        },
+        "WALL": {
+          "LWPOLYLINE": 1
+        }
+      },
+      "exact_match": false
+    },
+    {
+      "code": "SD-05",
+      "sub": "04_详图",
+      "file": "<D盘>\\UserFiles\\Desktop\\V3.3最终版\\02_施工图\\04_详图\\2402060131_蔡志成_门套收口大样_SD-05_v2.dxf",
+      "layer_count": 12,
+      "reference_count": 12,
+      "missing": [
+        "公-图框"
+      ],
+      "extra": [
+        "AXIS"
+      ],
+      "property_diffs": [],
+      "used_layers": {
+        "DIM": 12,
+        "DOOR_WIN": 3,
+        "FRAME": 1,
+        "HATCH": 4,
+        "TEXT": 11,
+        "WALL": 12
+      },
+      "entity_types_by_layer": {
+        "DIM": {
+          "LINE": 10,
+          "TEXT": 2
+        },
+        "DOOR_WIN": {
+          "LWPOLYLINE": 3
+        },
+        "FRAME": {
+          "INSERT": 1
+        },
+        "HATCH": {
+          "HATCH": 4
+        },
+        "TEXT": {
+          "TEXT": 11
+        },
+        "WALL": {
+          "LINE": 2,
+          "LWPOLYLINE": 10
+        }
+      },
+      "exact_match": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿python : 'name' table stringOffset incorrect. Expected: 222; Actual: 224
+所在位置 行:1 字符: 50
++ ... op\CAD出图工作流\cad_pipeline"; python build_9plans_同学版_v2.py 2>&1 | Out-F ...
++                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ('name' table st...22; Actual: 224:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+cannot open font 'C:\WINDOWS\Fonts\mstmc.ttf': Not a TrueType or OpenType font (bad sfntVersion)
+Traceback (most recent call last):
+  File "你的桌面\CAD出图工作流\cad_pipeline\build_9plans_同学版_v2.py", line 26, in <module>
+    import student_cad as cl
+  File "你的桌面\CAD出图工作流\cad_pipeline\student_cad.py", line 18, in <module>
+    from ezdxf.addons.drawing import matplotlib as ezdxf_mpl
+  File "C:\Users\<USER>\AppData\Local\DoubaoWork\User Data\sandbox_runtime\bases\772984f6fd3a8ae0ae7d2422cd7c2bfa\python
+\Lib\site-packages\ezdxf\addons\drawing\matplotlib.py", line 9, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'

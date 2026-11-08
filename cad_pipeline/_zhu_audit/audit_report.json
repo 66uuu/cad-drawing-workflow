@@ -1,0 +1,94 @@
+[
+ {
+  "file": "01_原始结构图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "02_平面布置图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "03_墙体定位图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "04_地面铺装图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "05_天花布置图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "06_天花尺寸图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "07_插座定位图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "08_给排水点位图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "09_灯具定位图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "E-01_前厅立面图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "E-02_开放办公区立面图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "E-03_会议室立面图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "E-04_接待区立面图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "E-05_独立办公室立面图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "E-06_核心筒立面图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "N-01_吊顶收口节点图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "N-02_墙面收口节点图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "N-03_地面收口节点图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "N-04_墙地顶综合收口节点图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "N-05_定制柜体大样图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "N-06_门套收口大样图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "N-07_踢脚线大样图.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ },
+ {
+  "file": "办公空间平面图_CAD_轴网尺寸修正版.dxf",
+  "error": "Invalid DXF attribute \"dxf\" for entity TEXT"
+ }
+]

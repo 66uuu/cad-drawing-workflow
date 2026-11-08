@@ -1,0 +1,322 @@
+﻿=== 01_原始结构图.dxf ===
+  图层: {'WALL': 94, 'AXIS': 48, 'TEXT': 39, 'DIM': 36}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== 02_平面布置图.dxf ===
+  图层: {'FURNITURE': 140, 'DOOR_WIN': 120, 'WALL': 94, 'AXIS': 48, 'TEXT': 48, 'DIM': 36}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== 03_墙体定位图.dxf ===
+  图层: {'DOOR_WIN': 120, 'WALL': 94, 'TEXT': 51, 'AXIS': 48, 'DIM': 36}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== 04_地面铺装图.dxf ===
+  图层: {'FURNITURE': 140, 'DOOR_WIN': 120, 'WALL': 94, 'TEXT': 54, 'AXIS': 48, 'DIM': 36}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== 05_天花布置图.dxf ===
+  图层: {'DOOR_WIN': 120, 'WALL': 94, 'TEXT': 50, 'AXIS': 48, 'DIM': 36, 'MEP': 36}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== 06_天花尺寸图.dxf ===
+  图层: {'DOOR_WIN': 120, 'WALL': 94, 'TEXT': 64, 'AXIS': 48, 'DIM': 36}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== 07_插座定位图.dxf ===
+  图层: {'FURNITURE': 140, 'DOOR_WIN': 120, 'MEP': 112, 'WALL': 94, 'TEXT': 54, 'AXIS': 48, 'DIM': 36}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== 08_给排水点位图.dxf ===
+  图层: {'FURNITURE': 140, 'DOOR_WIN': 120, 'WALL': 94, 'TEXT': 53, 'MEP': 49, 'AXIS': 48, 'DIM': 36}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== 09_灯具定位图.dxf ===
+  图层: {'MEP': 144, 'FURNITURE': 140, 'DOOR_WIN': 120, 'WALL': 94, 'TEXT': 52, 'AXIS': 48, 'DIM': 36}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== E-01_前厅立面图.dxf ===
+  图层: {'WALL': 70, 'FURNITURE': 36, 'AXIS': 16, 'TEXT': 13, 'DOOR_WIN': 13, 'COLUMN': 10, 'MEP': 7, 'DIM': 3}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== E-02_开放办公区立面图.dxf ===
+  图层: {'FURNITURE': 96, 'WALL': 73, 'MEP': 25, 'COLUMN': 10, 'TEXT': 9, 'AXIS': 8, 'DOOR_WIN': 7, 'DIM': 3}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== E-03_会议室立面图.dxf ===
+  图层: {'FURNITURE': 106, 'WALL': 83, 'DOOR_WIN': 38, 'MEP': 30, 'AXIS': 12, 'TEXT': 11, 'COLUMN': 10, 'DIM': 3}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== E-04_接待区立面图.dxf ===
+  图层: {'WALL': 80, 'FURNITURE': 72, 'AXIS': 20, 'TEXT': 15, 'COLUMN': 10, 'DIM': 3, 'MEP': 2, 'DOOR_WIN': 2}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== E-05_独立办公室立面图.dxf ===
+  图层: {'WALL': 58, 'FURNITURE': 52, 'AXIS': 16, 'DOOR_WIN': 14, 'TEXT': 13, 'COLUMN': 10, 'DIM': 3, 'MEP': 1}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== E-06_核心筒立面图.dxf ===
+  图层: {'WALL': 173, 'TEXT': 11, 'MEP': 5}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== N-01_吊顶收口节点图.dxf ===
+  图层: {'WALL': 11, 'TEXT': 4}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== N-02_墙面收口节点图.dxf ===
+  图层: {'WALL': 10, 'TEXT': 5}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== N-03_地面收口节点图.dxf ===
+  图层: {'WALL': 9, 'TEXT': 7}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== N-04_墙地顶综合收口节点图.dxf ===
+  图层: {'WALL': 14, 'TEXT': 7}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== N-05_定制柜体大样图.dxf ===
+  图层: {'WALL': 22, 'TEXT': 10}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== N-06_门套收口大样图.dxf ===
+  图层: {'WALL': 167, 'TEXT': 22, 'AXIS': 1}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== N-07_踢脚线大样图.dxf ===
+  图层: {'WALL': 177, 'TEXT': 20, 'AXIS': 2}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous
+=== 办公空间平面图_CAD_轴网尺寸修正版.dxf ===
+  图层: {'AXIS': 75, 'WALL': 70, 'DOOR_WIN': 66, 'DIM': 60, 'FURNITURE': 30, 'TEXT': 16}
+  属性:
+    0            color=7   lw=-3   ltype=Continuous
+    AXIS         color=3   lw=15   ltype=CENTER
+    COLUMN       color=7   lw=50   ltype=Continuous
+    DIM          color=3   lw=9    ltype=Continuous
+    DOOR_WIN     color=4   lw=25   ltype=Continuous
+    FRAME        color=7   lw=9    ltype=Continuous
+    FURNITURE    color=4   lw=25   ltype=Continuous
+    HATCH        color=9   lw=9    ltype=Continuous
+    MEP          color=6   lw=9    ltype=Continuous
+    TEXT         color=2   lw=9    ltype=Continuous
+    WALL         color=7   lw=50   ltype=Continuous

@@ -1,0 +1,117 @@
+{
+  "zhu_01": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\大样图\\N-05_定制柜体大样图.dwg",
+    "rel": "大样图\\N-05_定制柜体大样图.dwg",
+    "name": "N-05_定制柜体大样图.dwg"
+  },
+  "zhu_02": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\大样图\\N-06_门套收口大样图.dwg",
+    "rel": "大样图\\N-06_门套收口大样图.dwg",
+    "name": "N-06_门套收口大样图.dwg"
+  },
+  "zhu_03": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\大样图\\N-07_踢脚线大样图.dwg",
+    "rel": "大样图\\N-07_踢脚线大样图.dwg",
+    "name": "N-07_踢脚线大样图.dwg"
+  },
+  "zhu_04": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\平面图\\01_原始结构图.dwg",
+    "rel": "平面图\\01_原始结构图.dwg",
+    "name": "01_原始结构图.dwg"
+  },
+  "zhu_05": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\平面图\\02_平面布置图.dwg",
+    "rel": "平面图\\02_平面布置图.dwg",
+    "name": "02_平面布置图.dwg"
+  },
+  "zhu_06": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\平面图\\03_墙体定位图.dwg",
+    "rel": "平面图\\03_墙体定位图.dwg",
+    "name": "03_墙体定位图.dwg"
+  },
+  "zhu_07": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\平面图\\04_地面铺装图.dwg",
+    "rel": "平面图\\04_地面铺装图.dwg",
+    "name": "04_地面铺装图.dwg"
+  },
+  "zhu_08": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\平面图\\05_天花布置图.dwg",
+    "rel": "平面图\\05_天花布置图.dwg",
+    "name": "05_天花布置图.dwg"
+  },
+  "zhu_09": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\平面图\\06_天花尺寸图.dwg",
+    "rel": "平面图\\06_天花尺寸图.dwg",
+    "name": "06_天花尺寸图.dwg"
+  },
+  "zhu_10": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\平面图\\07_插座定位图.dwg",
+    "rel": "平面图\\07_插座定位图.dwg",
+    "name": "07_插座定位图.dwg"
+  },
+  "zhu_11": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\平面图\\08_给排水点位图.dwg",
+    "rel": "平面图\\08_给排水点位图.dwg",
+    "name": "08_给排水点位图.dwg"
+  },
+  "zhu_12": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\平面图\\09_灯具定位图.dwg",
+    "rel": "平面图\\09_灯具定位图.dwg",
+    "name": "09_灯具定位图.dwg"
+  },
+  "zhu_13": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\平面图\\办公空间平面图_CAD_轴网尺寸修正版.dwg",
+    "rel": "平面图\\办公空间平面图_CAD_轴网尺寸修正版.dwg",
+    "name": "办公空间平面图_CAD_轴网尺寸修正版.dwg"
+  },
+  "zhu_14": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\立面图\\E-01_前厅立面图.dwg",
+    "rel": "立面图\\E-01_前厅立面图.dwg",
+    "name": "E-01_前厅立面图.dwg"
+  },
+  "zhu_15": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\立面图\\E-02_开放办公区立面图.dwg",
+    "rel": "立面图\\E-02_开放办公区立面图.dwg",
+    "name": "E-02_开放办公区立面图.dwg"
+  },
+  "zhu_16": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\立面图\\E-03_会议室立面图.dwg",
+    "rel": "立面图\\E-03_会议室立面图.dwg",
+    "name": "E-03_会议室立面图.dwg"
+  },
+  "zhu_17": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\立面图\\E-04_接待区立面图.dwg",
+    "rel": "立面图\\E-04_接待区立面图.dwg",
+    "name": "E-04_接待区立面图.dwg"
+  },
+  "zhu_18": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\立面图\\E-05_独立办公室立面图.dwg",
+    "rel": "立面图\\E-05_独立办公室立面图.dwg",
+    "name": "E-05_独立办公室立面图.dwg"
+  },
+  "zhu_19": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\立面图\\E-06_核心筒立面图.dwg",
+    "rel": "立面图\\E-06_核心筒立面图.dwg",
+    "name": "E-06_核心筒立面图.dwg"
+  },
+  "zhu_20": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\节点\\N-01_吊顶收口节点图.dwg",
+    "rel": "节点\\N-01_吊顶收口节点图.dwg",
+    "name": "N-01_吊顶收口节点图.dwg"
+  },
+  "zhu_21": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\节点\\N-02_墙面收口节点图.dwg",
+    "rel": "节点\\N-02_墙面收口节点图.dwg",
+    "name": "N-02_墙面收口节点图.dwg"
+  },
+  "zhu_22": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\节点\\N-03_地面收口节点图.dwg",
+    "rel": "节点\\N-03_地面收口节点图.dwg",
+    "name": "N-03_地面收口节点图.dwg"
+  },
+  "zhu_23": {
+    "src": "<D盘>\\UserFiles\\Desktop\\朱\\节点\\N-04_墙地顶综合收口节点图.dwg",
+    "rel": "节点\\N-04_墙地顶综合收口节点图.dwg",
+    "name": "N-04_墙地顶综合收口节点图.dwg"
+  }
+}

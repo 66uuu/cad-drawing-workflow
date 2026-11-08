@@ -1,0 +1,901 @@
+﻿
+======================================================================
+文件: 01_原始结构图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  WALL_IN              color=8   lineweight=-3    ltype=Continuous
+  COLUMN               color=252 lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WINDOW               color=5   lineweight=-3    ltype=Continuous
+  STAIR                color=4   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  HATCH                color=9   lineweight=-3    ltype=Continuous
+  CEIL                 color=6   lineweight=-3    ltype=Continuous
+  LEGEND               color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         145
+  TEXT         38
+  CIRCLE       32
+  ARC          2
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:32, LINE:16
+  [DIM] LINE:36
+  [STAIR] LINE:22, ARC:2
+  [TEXT] TEXT:38, LINE:1
+  [WALL] LINE:26
+  [WALL_IN] LINE:44
+--- 文字样式 ---
+  Standard     font=SimSun.ttf bigfont=
+  Annotative   font=SimSun.ttf bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  350.0 mm × 37 个
+  600.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -3780 ~ 40780 (宽 44560)
+  Y: -4900 ~ 29750 (高 34650)
+
+======================================================================
+文件: 02_平面布置图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  WALL_IN              color=8   lineweight=-3    ltype=Continuous
+  COLUMN               color=252 lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WINDOW               color=5   lineweight=-3    ltype=Continuous
+  STAIR                color=4   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  HATCH                color=9   lineweight=-3    ltype=Continuous
+  CEIL                 color=6   lineweight=-3    ltype=Continuous
+  LEGEND               color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         390
+  TEXT         47
+  CIRCLE       32
+  ARC          17
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:32, LINE:16
+  [DIM] LINE:36
+  [DOOR] LINE:15, ARC:15
+  [FURN] LINE:140
+  [STAIR] LINE:22, ARC:2
+  [TEXT] TEXT:47, LINE:1
+  [WALL] LINE:26
+  [WALL_IN] LINE:44
+  [WINDOW] LINE:90
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=SimSun.ttf bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  350.0 mm × 44 个
+  400.0 mm × 2 个
+  600.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -3780 ~ 40780 (宽 44560)
+  Y: -4900 ~ 29750 (高 34650)
+
+======================================================================
+文件: 03_墙体定位图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  WALL_IN              color=8   lineweight=-3    ltype=Continuous
+  COLUMN               color=252 lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WINDOW               color=5   lineweight=-3    ltype=Continuous
+  STAIR                color=4   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  HATCH                color=9   lineweight=-3    ltype=Continuous
+  CEIL                 color=6   lineweight=-3    ltype=Continuous
+  LEGEND               color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         250
+  TEXT         50
+  CIRCLE       32
+  ARC          17
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:32, LINE:16
+  [DIM] LINE:36
+  [DOOR] LINE:15, ARC:15
+  [STAIR] LINE:22, ARC:2
+  [TEXT] TEXT:50, LINE:1
+  [WALL] LINE:26
+  [WALL_IN] LINE:44
+  [WINDOW] LINE:90
+--- 文字样式 ---
+  Standard     font=SimSun.ttf bigfont=
+  Annotative   font=SimSun.ttf bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  350.0 mm × 45 个
+  400.0 mm × 4 个
+  600.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -3780 ~ 40780 (宽 44560)
+  Y: -4900 ~ 29750 (高 34650)
+
+======================================================================
+文件: 04_地面铺装图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  WALL_IN              color=8   lineweight=-3    ltype=Continuous
+  COLUMN               color=252 lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WINDOW               color=5   lineweight=-3    ltype=Continuous
+  STAIR                color=4   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  HATCH                color=9   lineweight=-3    ltype=Continuous
+  CEIL                 color=6   lineweight=-3    ltype=Continuous
+  LEGEND               color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         390
+  TEXT         53
+  CIRCLE       32
+  ARC          17
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:32, LINE:16
+  [DIM] LINE:36
+  [DOOR] LINE:15, ARC:15
+  [FURN] LINE:140
+  [STAIR] LINE:22, ARC:2
+  [TEXT] TEXT:53, LINE:1
+  [WALL] LINE:26
+  [WALL_IN] LINE:44
+  [WINDOW] LINE:90
+--- 文字样式 ---
+  Standard     font=SimSun.ttf bigfont=
+  Annotative   font=SimSun.ttf bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  350.0 mm × 44 个
+  300.0 mm × 6 个
+  400.0 mm × 2 个
+  600.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -3780 ~ 40780 (宽 44560)
+  Y: -4900 ~ 29750 (高 34650)
+
+======================================================================
+文件: 05_天花布置图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  WALL_IN              color=8   lineweight=-3    ltype=Continuous
+  COLUMN               color=252 lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WINDOW               color=5   lineweight=-3    ltype=Continuous
+  STAIR                color=4   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  HATCH                color=9   lineweight=-3    ltype=Continuous
+  CEIL                 color=6   lineweight=-3    ltype=Continuous
+  LEGEND               color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         262
+  CIRCLE       56
+  TEXT         49
+  ARC          17
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:32, LINE:16
+  [DIM] LINE:36
+  [DOOR] LINE:15, ARC:15
+  [STAIR] LINE:22, ARC:2
+  [SYM] CIRCLE:24, LINE:12
+  [TEXT] TEXT:49, LINE:1
+  [WALL] LINE:26
+  [WALL_IN] LINE:44
+  [WINDOW] LINE:90
+--- 文字样式 ---
+  Standard     font=SimSun.ttf bigfont=
+  Annotative   font=SimSun.ttf bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  350.0 mm × 44 个
+  400.0 mm × 4 个
+  600.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -3780 ~ 40780 (宽 44560)
+  Y: -4900 ~ 29750 (高 34650)
+
+======================================================================
+文件: 06_天花尺寸图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  WALL_IN              color=8   lineweight=-3    ltype=Continuous
+  COLUMN               color=252 lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WINDOW               color=5   lineweight=-3    ltype=Continuous
+  STAIR                color=4   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  HATCH                color=9   lineweight=-3    ltype=Continuous
+  CEIL                 color=6   lineweight=-3    ltype=Continuous
+  LEGEND               color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         250
+  TEXT         63
+  CIRCLE       32
+  ARC          17
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:32, LINE:16
+  [DIM] LINE:36
+  [DOOR] LINE:15, ARC:15
+  [STAIR] LINE:22, ARC:2
+  [TEXT] TEXT:63, LINE:1
+  [WALL] LINE:26
+  [WALL_IN] LINE:44
+  [WINDOW] LINE:90
+--- 文字样式 ---
+  Standard     font=SimSun.ttf bigfont=
+  Annotative   font=SimSun.ttf bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  350.0 mm × 41 个
+  250.0 mm × 17 个
+  400.0 mm × 4 个
+  600.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -3780 ~ 40780 (宽 44560)
+  Y: -4900 ~ 29750 (高 34650)
+
+======================================================================
+文件: 07_插座定位图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  WALL_IN              color=8   lineweight=-3    ltype=Continuous
+  COLUMN               color=252 lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WINDOW               color=5   lineweight=-3    ltype=Continuous
+  STAIR                color=4   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  HATCH                color=9   lineweight=-3    ltype=Continuous
+  CEIL                 color=6   lineweight=-3    ltype=Continuous
+  LEGEND               color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         502
+  TEXT         53
+  CIRCLE       32
+  ARC          17
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:32, LINE:16
+  [DIM] LINE:36
+  [DOOR] LINE:15, ARC:15
+  [FURN] LINE:140
+  [LEGEND] TEXT:6
+  [STAIR] LINE:22, ARC:2
+  [SYM] LINE:112
+  [TEXT] TEXT:47, LINE:1
+  [WALL] LINE:26
+  [WALL_IN] LINE:44
+  [WINDOW] LINE:90
+--- 文字样式 ---
+  Standard     font=SimSun.ttf bigfont=
+  Annotative   font=SimSun.ttf bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  350.0 mm × 44 个
+  250.0 mm × 5 个
+  400.0 mm × 2 个
+  300.0 mm × 1 个
+  600.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -3780 ~ 40780 (宽 44560)
+  Y: -4900 ~ 29750 (高 34650)
+
+======================================================================
+文件: 08_给排水点位图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  WALL_IN              color=8   lineweight=-3    ltype=Continuous
+  COLUMN               color=252 lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WINDOW               color=5   lineweight=-3    ltype=Continuous
+  STAIR                color=4   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  HATCH                color=9   lineweight=-3    ltype=Continuous
+  CEIL                 color=6   lineweight=-3    ltype=Continuous
+  LEGEND               color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         416
+  CIRCLE       55
+  TEXT         52
+  ARC          17
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:32, LINE:16
+  [DIM] LINE:36
+  [DOOR] LINE:15, ARC:15
+  [FURN] LINE:140
+  [LEGEND] TEXT:4
+  [STAIR] LINE:22, ARC:2
+  [SYM] LINE:26, CIRCLE:23
+  [TEXT] TEXT:48, LINE:1
+  [WALL] LINE:26
+  [WALL_IN] LINE:44
+  [WINDOW] LINE:90
+--- 文字样式 ---
+  Standard     font=SimSun.ttf bigfont=
+  Annotative   font=SimSun.ttf bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  350.0 mm × 44 个
+  250.0 mm × 5 个
+  400.0 mm × 2 个
+  600.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -3780 ~ 40780 (宽 44560)
+  Y: -4900 ~ 29750 (高 34650)
+
+======================================================================
+文件: 09_灯具定位图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  WALL_IN              color=8   lineweight=-3    ltype=Continuous
+  COLUMN               color=252 lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WINDOW               color=5   lineweight=-3    ltype=Continuous
+  STAIR                color=4   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  HATCH                color=9   lineweight=-3    ltype=Continuous
+  CEIL                 color=6   lineweight=-3    ltype=Continuous
+  LEGEND               color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         390
+  CIRCLE       176
+  TEXT         51
+  ARC          17
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:32, LINE:16
+  [DIM] LINE:36
+  [DOOR] LINE:15, ARC:15
+  [FURN] LINE:140
+  [LEGEND] TEXT:4
+  [STAIR] LINE:22, ARC:2
+  [SYM] CIRCLE:144
+  [TEXT] TEXT:47, LINE:1
+  [WALL] LINE:26
+  [WALL_IN] LINE:44
+  [WINDOW] LINE:90
+--- 文字样式 ---
+  Standard     font=SimSun.ttf bigfont=
+  Annotative   font=SimSun.ttf bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  350.0 mm × 44 个
+  250.0 mm × 4 个
+  400.0 mm × 2 个
+  600.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -3780 ~ 40780 (宽 44560)
+  Y: -4900 ~ 29750 (高 34650)
+
+======================================================================
+文件: E-01_前厅立面图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  COLUMN               color=8   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  FLOOR                color=8   lineweight=-3    ltype=Continuous
+  CEIL                 color=4   lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WIN                  color=5   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         143
+  CIRCLE       13
+  TEXT         12
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:8, LINE:8
+  [CEIL] LINE:2
+  [COLUMN] LINE:10
+  [DIM] LINE:3
+  [DOOR] LINE:13
+  [FLOOR] LINE:67
+  [FURN] LINE:36
+  [SYM] CIRCLE:5
+  [TEXT] TEXT:12, LINE:1
+  [WALL] LINE:3
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=txt bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  280.0 mm × 9 个
+  250.0 mm × 2 个
+  400.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -500 ~ 12600 (宽 13100)
+  Y: -2900 ~ 5150 (高 8050)
+
+======================================================================
+文件: E-02_开放办公区立面图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  COLUMN               color=8   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  FLOOR                color=8   lineweight=-3    ltype=Continuous
+  CEIL                 color=4   lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WIN                  color=5   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         219
+  TEXT         8
+  CIRCLE       4
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:4, LINE:4
+  [CEIL] LINE:1
+  [COLUMN] LINE:10
+  [DIM] LINE:3
+  [FLOOR] LINE:72
+  [FURN] LINE:96
+  [SYM] LINE:24
+  [TEXT] TEXT:8, LINE:1
+  [WALL] LINE:1
+  [WIN] LINE:7
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=txt bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  280.0 mm × 5 个
+  250.0 mm × 2 个
+  400.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -500 ~ 13600 (宽 14100)
+  Y: -2900 ~ 5150 (高 8050)
+
+======================================================================
+文件: E-03_会议室立面图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  COLUMN               color=8   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  FLOOR                color=8   lineweight=-3    ltype=Continuous
+  CEIL                 color=4   lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WIN                  color=5   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         277
+  TEXT         10
+  CIRCLE       6
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:6, LINE:6
+  [CEIL] LINE:2
+  [COLUMN] LINE:10
+  [DIM] LINE:3
+  [DOOR] LINE:26
+  [FLOOR] LINE:82
+  [FURN] LINE:106
+  [SYM] LINE:28
+  [TEXT] TEXT:10, LINE:1
+  [WALL] LINE:1
+  [WIN] LINE:12
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=txt bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  280.0 mm × 7 个
+  250.0 mm × 2 个
+  400.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -500 ~ 15600 (宽 16100)
+  Y: -2900 ~ 5150 (高 8050)
+
+======================================================================
+文件: E-04_接待区立面图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  COLUMN               color=8   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  FLOOR                color=8   lineweight=-3    ltype=Continuous
+  CEIL                 color=4   lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WIN                  color=5   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         180
+  TEXT         14
+  CIRCLE       10
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:10, LINE:10
+  [CEIL] LINE:2
+  [COLUMN] LINE:10
+  [DIM] LINE:3
+  [FLOOR] LINE:67
+  [FURN] LINE:72
+  [TEXT] TEXT:14, LINE:1
+  [WALL] LINE:13
+  [WIN] LINE:2
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=txt bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  280.0 mm × 11 个
+  250.0 mm × 2 个
+  400.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -500 ~ 12600 (宽 13100)
+  Y: -2900 ~ 5150 (高 8050)
+
+======================================================================
+文件: E-05_独立办公室立面图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  COLUMN               color=8   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  DIM                  color=1   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  SYM                  color=1   lineweight=-3    ltype=Continuous
+  FLOOR                color=8   lineweight=-3    ltype=Continuous
+  CEIL                 color=4   lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WIN                  color=5   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         147
+  TEXT         12
+  CIRCLE       8
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:8, LINE:8
+  [CEIL] LINE:1
+  [COLUMN] LINE:10
+  [DIM] LINE:3
+  [DOOR] LINE:8
+  [FLOOR] LINE:57
+  [FURN] LINE:52
+  [TEXT] TEXT:12, LINE:1
+  [WALL] LINE:1
+  [WIN] LINE:6
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=txt bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  280.0 mm × 9 个
+  250.0 mm × 2 个
+  400.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -500 ~ 10600 (宽 11100)
+  Y: -2900 ~ 4750 (高 7650)
+
+======================================================================
+文件: E-06_核心筒立面图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         173
+  TEXT         11
+  CIRCLE       5
+--- 图层×实体类型 ---
+  [0] LINE:173, TEXT:11, CIRCLE:5
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=txt bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  280.0 mm × 6 个
+  250.0 mm × 4 个
+  400.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -500 ~ 10600 (宽 11100)
+  Y: -2711 ~ 6150 (高 8861)
+
+======================================================================
+文件: N-01_吊顶收口节点图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         11
+  TEXT         4
+--- 图层×实体类型 ---
+  [0] LINE:11, TEXT:4
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=txt bigfont=
+--- 字高分布 ---
+  200.0 mm × 3 个
+  350.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: 0 ~ 6000 (宽 6000)
+  Y: -1618 ~ 4797 (高 6415)
+
+======================================================================
+文件: N-02_墙面收口节点图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         10
+  TEXT         5
+--- 图层×实体类型 ---
+  [0] LINE:10, TEXT:5
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=txt bigfont=
+--- 字高分布 ---
+  200.0 mm × 4 个
+  350.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: 0 ~ 6000 (宽 6000)
+  Y: -1618 ~ 4197 (高 5815)
+
+======================================================================
+文件: N-03_地面收口节点图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         9
+  TEXT         7
+--- 图层×实体类型 ---
+  [0] LINE:9, TEXT:7
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=txt bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  200.0 mm × 6 个
+  350.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: 0 ~ 7000 (宽 7000)
+  Y: -1597 ~ 3300 (高 4897)
+
+======================================================================
+文件: N-04_墙地顶综合收口节点图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         14
+  TEXT         7
+--- 图层×实体类型 ---
+  [0] LINE:14, TEXT:7
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=txt bigfont=
+--- 字高分布 ---
+  200.0 mm × 5 个
+  300.0 mm × 1 个
+  350.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: 0 ~ 9000 (宽 9000)
+  Y: -1618 ~ 5097 (高 6715)
+
+======================================================================
+文件: N-05_定制柜体大样图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         22
+  TEXT         10
+--- 图层×实体类型 ---
+  [0] LINE:22, TEXT:10
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=txt bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  200.0 mm × 8 个
+  250.0 mm × 1 个
+  350.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -200 ~ 4287 (宽 4487)
+  Y: -897 ~ 3600 (高 4497)
+
+======================================================================
+文件: N-06_门套收口大样图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         167
+  TEXT         22
+  CIRCLE       1
+--- 图层×实体类型 ---
+  [0] LINE:167, TEXT:22, CIRCLE:1
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=txt bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  200.0 mm × 19 个
+  250.0 mm × 2 个
+  400.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: 0 ~ 9030 (宽 9030)
+  Y: -1000 ~ 3450 (高 4450)
+
+======================================================================
+文件: N-07_踢脚线大样图.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         177
+  TEXT         20
+  CIRCLE       2
+--- 图层×实体类型 ---
+  [0] LINE:177, TEXT:20, CIRCLE:2
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  Annotative   font=txt bigfont=
+  HZ           font=SimSun.ttf bigfont=
+--- 字高分布 ---
+  200.0 mm × 17 个
+  250.0 mm × 2 个
+  400.0 mm × 1 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: 0 ~ 9030 (宽 9030)
+  Y: -311 ~ 3000 (高 3311)
+
+======================================================================
+文件: 办公空间平面图_CAD_轴网尺寸修正版.dxf
+--- 图层清单 ---
+  0                    color=7   lineweight=-3    ltype=Continuous
+  Defpoints            color=7   lineweight=-3    ltype=Continuous
+  WALL                 color=7   lineweight=-3    ltype=Continuous
+  WALL_IN              color=7   lineweight=-3    ltype=Continuous
+  DOOR                 color=3   lineweight=-3    ltype=Continuous
+  WINDOW               color=5   lineweight=-3    ltype=Continuous
+  STAIR                color=7   lineweight=-3    ltype=Continuous
+  ELEV                 color=7   lineweight=-3    ltype=Continuous
+  FURN                 color=8   lineweight=-3    ltype=Continuous
+  TEXT                 color=7   lineweight=-3    ltype=Continuous
+  AXIS                 color=1   lineweight=-3    ltype=Continuous
+  TOILET               color=7   lineweight=-3    ltype=Continuous
+  DIM                  color=7   lineweight=-3    ltype=Continuous
+--- 实体类型总计 ---
+  LINE         132
+  DIMENSION    54
+  TEXT         46
+  CIRCLE       39
+  LWPOLYLINE   28
+  ARC          18
+--- 图层×实体类型 ---
+  [AXIS] CIRCLE:30, TEXT:30, LINE:15
+  [DIM] DIMENSION:54
+  [DOOR] ARC:18, LINE:18
+  [ELEV] LINE:4, LWPOLYLINE:2
+  [FURN] LWPOLYLINE:21, CIRCLE:9
+  [STAIR] LINE:40, LWPOLYLINE:4
+  [TEXT] TEXT:16
+  [WALL] LWPOLYLINE:1
+  [WALL_IN] LINE:25
+  [WINDOW] LINE:30
+--- 文字样式 ---
+  Standard     font=txt bigfont=
+  OpenSans-Light font=OpenSans-Light.ttf bigfont=
+  OpenSans-Light-Italic font=OpenSans-LightItalic.ttf bigfont=
+  OpenSans     font=OpenSans-Regular.ttf bigfont=
+  OpenSans-Italic font=OpenSans-Italic.ttf bigfont=
+  OpenSans-SemiBold font=OpenSans-SemiBold.ttf bigfont=
+  OpenSans-SemiBoldItalic font=OpenSans-SemiBoldItalic.ttf bigfont=
+  OpenSans-Bold font=OpenSans-Bold.ttf bigfont=
+  OpenSans-BoldItalic font=OpenSans-BoldItalic.ttf bigfont=
+  OpenSans-ExtraBold font=OpenSans-ExtraBold.ttf bigfont=
+  OpenSans-ExtraBoldItalic font=OpenSans-ExtraBoldItalic.ttf bigfont=
+  OpenSansCondensed-Bold font=OpenSansCondensed-Bold.ttf bigfont=
+  OpenSansCondensed-Light font=OpenSansCondensed-Light.ttf bigfont=
+  OpenSansCondensed-Italic font=OpenSansCondensed-LightItalic.ttf bigfont=
+  LiberationSans font=LiberationSans-Regular.ttf bigfont=
+  LiberationSans-Bold font=LiberationSans-Bold.ttf bigfont=
+  LiberationSans-BoldItalic font=LiberationSans-BoldItalic.ttf bigfont=
+  LiberationSans-Italic font=LiberationSans-Italic.ttf bigfont=
+  LiberationSerif font=LiberationSerif-Regular.ttf bigfont=
+  LiberationSerif-Bold font=LiberationSerif-Bold.ttf bigfont=
+  LiberationSerif-BoldItalic font=LiberationSerif-BoldItalic.ttf bigfont=
+  LiberationSerif-Italic font=LiberationSerif-Italic.ttf bigfont=
+  LiberationMono font=LiberationMono-Regular.ttf bigfont=
+  LiberationMono-Bold font=LiberationMono-Bold.ttf bigfont=
+  LiberationMono-BoldItalic font=LiberationMono-BoldItalic.ttf bigfont=
+  LiberationMono-Italic font=LiberationMono-Italic.ttf bigfont=
+  NOTE         font=simhei.ttf bigfont=
+--- 字高分布 ---
+  400.0 mm × 31 个
+  350.0 mm × 8 个
+  250.0 mm × 7 个
+--- 插入块 ---
+--- 包围盒 ---
+  X: -8400 ~ 45400 (宽 53800)
+  Y: -8400 ~ 45400 (高 53800)

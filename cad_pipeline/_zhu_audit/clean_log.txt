@@ -1,0 +1,119 @@
+﻿清洗: 01_原始结构图.dxf
+  移动: {('WALL_IN', 'WALL'): 44, ('STAIR', 'WALL'): 24}
+  0层分类: {}
+  文字样式: 38
+  删除图层: ['0', 'WALL_IN', 'DOOR', 'WINDOW', 'STAIR', 'FURN', 'SYM', 'CEIL', 'LEGEND']
+清洗: 02_平面布置图.dxf
+  移动: {('WALL_IN', 'WALL'): 44, ('DOOR', 'DOOR_WIN'): 30, ('WINDOW', 'DOOR_WIN'): 90, ('STAIR', 'WALL'): 24, ('FURN', 'FURNITURE'): 140}
+  0层分类: {}
+  文字样式: 47
+  删除图层: ['0', 'WALL_IN', 'DOOR', 'WINDOW', 'STAIR', 'FURN', 'SYM', 'CEIL', 'LEGEND']
+清洗: 03_墙体定位图.dxf
+  移动: {('WALL_IN', 'WALL'): 44, ('DOOR', 'DOOR_WIN'): 30, ('WINDOW', 'DOOR_WIN'): 90, ('STAIR', 'WALL'): 24}
+  0层分类: {}
+  文字样式: 50
+  删除图层: ['0', 'WALL_IN', 'DOOR', 'WINDOW', 'STAIR', 'FURN', 'SYM', 'CEIL', 'LEGEND']
+清洗: 04_地面铺装图.dxf
+  移动: {('WALL_IN', 'WALL'): 44, ('DOOR', 'DOOR_WIN'): 30, ('WINDOW', 'DOOR_WIN'): 90, ('STAIR', 'WALL'): 24, ('FURN', 'FURNITURE'): 140}
+  0层分类: {}
+  文字样式: 53
+  删除图层: ['0', 'WALL_IN', 'DOOR', 'WINDOW', 'STAIR', 'FURN', 'SYM', 'CEIL', 'LEGEND']
+清洗: 05_天花布置图.dxf
+  移动: {('WALL_IN', 'WALL'): 44, ('DOOR', 'DOOR_WIN'): 30, ('WINDOW', 'DOOR_WIN'): 90, ('STAIR', 'WALL'): 24, ('SYM', 'MEP'): 36}
+  0层分类: {}
+  文字样式: 49
+  删除图层: ['0', 'WALL_IN', 'DOOR', 'WINDOW', 'STAIR', 'FURN', 'SYM', 'CEIL', 'LEGEND']
+清洗: 06_天花尺寸图.dxf
+  移动: {('WALL_IN', 'WALL'): 44, ('DOOR', 'DOOR_WIN'): 30, ('WINDOW', 'DOOR_WIN'): 90, ('STAIR', 'WALL'): 24}
+  0层分类: {}
+  文字样式: 63
+  删除图层: ['0', 'WALL_IN', 'DOOR', 'WINDOW', 'STAIR', 'FURN', 'SYM', 'CEIL', 'LEGEND']
+清洗: 07_插座定位图.dxf
+  移动: {('WALL_IN', 'WALL'): 44, ('DOOR', 'DOOR_WIN'): 30, ('WINDOW', 'DOOR_WIN'): 90, ('STAIR', 'WALL'): 24, ('FURN', 'FURNITURE'): 140, ('SYM', 'MEP'): 112, ('LEGEND', 'TEXT'): 6}
+  0层分类: {}
+  文字样式: 53
+  删除图层: ['0', 'WALL_IN', 'DOOR', 'WINDOW', 'STAIR', 'FURN', 'SYM', 'CEIL', 'LEGEND']
+清洗: 08_给排水点位图.dxf
+  移动: {('WALL_IN', 'WALL'): 44, ('DOOR', 'DOOR_WIN'): 30, ('WINDOW', 'DOOR_WIN'): 90, ('STAIR', 'WALL'): 24, ('FURN', 'FURNITURE'): 140, ('SYM', 'MEP'): 49, ('LEGEND', 'TEXT'): 4}
+  0层分类: {}
+  文字样式: 52
+  删除图层: ['0', 'WALL_IN', 'DOOR', 'WINDOW', 'STAIR', 'FURN', 'SYM', 'CEIL', 'LEGEND']
+清洗: 09_灯具定位图.dxf
+  移动: {('WALL_IN', 'WALL'): 44, ('DOOR', 'DOOR_WIN'): 30, ('WINDOW', 'DOOR_WIN'): 90, ('STAIR', 'WALL'): 24, ('FURN', 'FURNITURE'): 140, ('SYM', 'MEP'): 144, ('LEGEND', 'TEXT'): 4}
+  0层分类: {}
+  文字样式: 51
+  删除图层: ['0', 'WALL_IN', 'DOOR', 'WINDOW', 'STAIR', 'FURN', 'SYM', 'CEIL', 'LEGEND']
+清洗: E-01_前厅立面图.dxf
+  移动: {('FLOOR', 'WALL'): 67, ('CEIL', 'MEP'): 2, ('SYM', 'MEP'): 5, ('DOOR', 'DOOR_WIN'): 13, ('FURN', 'FURNITURE'): 36}
+  0层分类: {}
+  文字样式: 12
+  删除图层: ['0', 'FURN', 'SYM', 'FLOOR', 'CEIL', 'DOOR', 'WIN']
+清洗: E-02_开放办公区立面图.dxf
+  移动: {('FLOOR', 'WALL'): 72, ('CEIL', 'MEP'): 1, ('SYM', 'MEP'): 24, ('WIN', 'DOOR_WIN'): 7, ('FURN', 'FURNITURE'): 96}
+  0层分类: {}
+  文字样式: 8
+  删除图层: ['0', 'FURN', 'SYM', 'FLOOR', 'CEIL', 'DOOR', 'WIN']
+清洗: E-03_会议室立面图.dxf
+  移动: {('FLOOR', 'WALL'): 82, ('CEIL', 'MEP'): 2, ('SYM', 'MEP'): 28, ('DOOR', 'DOOR_WIN'): 26, ('WIN', 'DOOR_WIN'): 12, ('FURN', 'FURNITURE'): 106}
+  0层分类: {}
+  文字样式: 10
+  删除图层: ['0', 'FURN', 'SYM', 'FLOOR', 'CEIL', 'DOOR', 'WIN']
+清洗: E-04_接待区立面图.dxf
+  移动: {('FLOOR', 'WALL'): 67, ('CEIL', 'MEP'): 2, ('FURN', 'FURNITURE'): 72, ('WIN', 'DOOR_WIN'): 2}
+  0层分类: {}
+  文字样式: 14
+  删除图层: ['0', 'FURN', 'SYM', 'FLOOR', 'CEIL', 'DOOR', 'WIN']
+清洗: E-05_独立办公室立面图.dxf
+  移动: {('FLOOR', 'WALL'): 57, ('CEIL', 'MEP'): 1, ('WIN', 'DOOR_WIN'): 6, ('DOOR', 'DOOR_WIN'): 8, ('FURN', 'FURNITURE'): 52}
+  0层分类: {}
+  文字样式: 12
+  删除图层: ['0', 'FURN', 'SYM', 'FLOOR', 'CEIL', 'DOOR', 'WIN']
+清洗: E-06_核心筒立面图.dxf
+  移动: {('0', 'WALL'): 173, ('0', 'TEXT'): 11, ('0', 'MEP'): 5}
+  0层分类: {'WALL': 173, 'TEXT': 11, 'MEP': 5}
+  文字样式: 11
+  删除图层: ['0']
+清洗: N-01_吊顶收口节点图.dxf
+  移动: {('0', 'WALL'): 11, ('0', 'TEXT'): 4}
+  0层分类: {'WALL': 11, 'TEXT': 4}
+  文字样式: 4
+  删除图层: ['0']
+清洗: N-02_墙面收口节点图.dxf
+  移动: {('0', 'WALL'): 10, ('0', 'TEXT'): 5}
+  0层分类: {'WALL': 10, 'TEXT': 5}
+  文字样式: 5
+  删除图层: ['0']
+清洗: N-03_地面收口节点图.dxf
+  移动: {('0', 'WALL'): 9, ('0', 'TEXT'): 7}
+  0层分类: {'WALL': 9, 'TEXT': 7}
+  文字样式: 7
+  删除图层: ['0']
+清洗: N-04_墙地顶综合收口节点图.dxf
+  移动: {('0', 'WALL'): 14, ('0', 'TEXT'): 7}
+  0层分类: {'WALL': 14, 'TEXT': 7}
+  文字样式: 7
+  删除图层: ['0']
+清洗: N-05_定制柜体大样图.dxf
+  移动: {('0', 'WALL'): 22, ('0', 'TEXT'): 10}
+  0层分类: {'WALL': 22, 'TEXT': 10}
+  文字样式: 10
+  删除图层: ['0']
+清洗: N-06_门套收口大样图.dxf
+  移动: {('0', 'WALL'): 167, ('0', 'AXIS'): 1, ('0', 'TEXT'): 22}
+  0层分类: {'WALL': 167, 'AXIS': 1, 'TEXT': 22}
+  文字样式: 22
+  删除图层: ['0']
+清洗: N-07_踢脚线大样图.dxf
+  移动: {('0', 'WALL'): 177, ('0', 'TEXT'): 20, ('0', 'AXIS'): 2}
+  0层分类: {'WALL': 177, 'TEXT': 20, 'AXIS': 2}
+  文字样式: 20
+  删除图层: ['0']
+清洗: 办公空间平面图_CAD_轴网尺寸修正版.dxf
+  移动: {('WALL_IN', 'WALL'): 25, ('STAIR', 'WALL'): 44, ('ELEV', 'DIM'): 6, ('DOOR', 'DOOR_WIN'): 36, ('WINDOW', 'DOOR_WIN'): 30, ('FURN', 'FURNITURE'): 30}
+  0层分类: {}
+  文字样式: 46
+  删除图层: ['0', 'WALL_IN', 'DOOR', 'WINDOW', 'STAIR', 'ELEV', 'FURN', 'TOILET']
+
+=== 清洗完成 ===
+输出目录: 你的桌面\CAD出图工作流\cad_pipeline\_zhu_audit\cleaned
+成功: 23 / 23
